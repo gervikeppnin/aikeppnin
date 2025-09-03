@@ -6,6 +6,12 @@ Welcome to the official repository for the Icelandic National AI Championship! T
 
 The championship runs from **January 19 - January 26, 2026** and features three challenging problems spanning reinforcement learning, natural language processing, and computer vision. Teams of up to 4 members will compete for a total prize pool of **1,000,000 ISK**.
 
+## Preparatory Material
+
+Danish National Championship in AI 2022: https://github.com/amboltio/DM-i-AI-2022
+Danish National Championship in AI 2022: https://github.com/amboltio/DM-i-AI-2023
+
+
 ## Important Links
 
 - 📱 [Discord Channel](https://discord.gg/iceland-ai-championship) - Join for announcements, Q&A, and community discussion
