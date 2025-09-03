@@ -4,7 +4,7 @@ Welcome to the official repository for the Icelandic National AI Championship! T
 
 ## Competition Overview
 
-The championship runs from **March 1 - May 31, 2025** and features three challenging problems spanning reinforcement learning, natural language processing, and computer vision. Teams of up to 4 members will compete for a total prize pool of **1,000,000 ISK**.
+The championship runs from **January 19 - January 26, 2026** and features three challenging problems spanning reinforcement learning, natural language processing, and computer vision. Teams of up to 4 members will compete for a total prize pool of **1,000,000 ISK**.
 
 ## Important Links
 
