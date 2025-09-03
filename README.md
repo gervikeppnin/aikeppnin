@@ -20,21 +20,26 @@ Explore each challenge in detail:
 - [**Natural Language Processing Problem**](./NLP_problem) - Build an Icelandic language assistant for tourism
 - [**Computer Vision Problem**](./CV_problem) - Detect and classify volcanic activity from satellite imagery
 
-## How to Get a Server
+## How to Get a Server for Deployment
 
-Each team is entitled to **one free server** with the following specifications:
-- **GPU**: 1x NVIDIA A100 (40GB)
-- **CPU**: 16 vCPUs
-- **RAM**: 64 GB
-- **Storage**: 500 GB SSD
+When submitting your solution, you are expected to host a server where your REST API will be deployed. As this competition is exclusively for students, you can sign up for **Azure for Students** to receive free credits for creating a virtual machine. Alternatively, you can deploy your submission locally (requires a public IP).
 
-To claim your server:
-1. Register your team at [ai-championship.is/register](https://ai-championship.is/register)
-2. Submit your team members' information
-3. Receive access credentials within 24 hours
-4. Access your server via SSH using provided credentials
+### Azure Setup Resources
 
-**Note**: Additional compute resources can be purchased at discounted rates.
+The following links will help you create and configure your virtual machine:
+- [Creating a Linux virtual machine](https://docs.microsoft.com/azure/virtual-machines/linux/quick-create-portal)
+- [Install and configure xrdp to use Remote Desktop](https://docs.microsoft.com/azure/virtual-machines/linux/use-remote-desktop)
+- [Create an inbound security rule](https://docs.microsoft.com/azure/virtual-network/tutorial-filter-network-traffic) (ensures API endpoints are accessible for submission)
+
+### Alternative Cloud Providers
+
+You may also use:
+- AWS Educate (free credits for students)
+- Google Cloud Platform (student credits available)
+- DigitalOcean Student Pack
+- Your university's computing resources
+
+**Important:** Set up your server early in the competition and test connectivity with the evaluation service as soon as possible. This helps identify and resolve any server-related issues well before the deadline!
 
 ## Submission
 
