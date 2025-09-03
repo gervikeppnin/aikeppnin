@@ -4,7 +4,7 @@ Welcome to the official repository for the Icelandic National AI Championship! T
 
 ## Competition Overview
 
-The championship runs from **March 1 - May 31, 2025** and features three challenging problems spanning reinforcement learning, natural language processing, and computer vision. Teams of up to 4 members will compete for a total prize pool of **5,000,000 ISK**.
+The championship runs from **March 1 - May 31, 2025** and features three challenging problems spanning reinforcement learning, natural language processing, and computer vision. Teams of up to 4 members will compete for a total prize pool of **1,000,000 ISK**.
 
 ## Important Links
 
@@ -74,9 +74,9 @@ After the competition closes:
 
 ## Prizes
 
-- 🥇 **1st Place**: 2,500,000 ISK + NVIDIA DGX Station
-- 🥈 **2nd Place**: 1,500,000 ISK + High-end workstation
-- 🥉 **3rd Place**: 1,000,000 ISK + Latest GPU
+- 🥇 **1st Place**: 750,000 ISK + NVIDIA DGX Station
+- 🥈 **2nd Place**: 200,000 ISK + High-end workstation
+- 🥉 **3rd Place**: 50,000 ISK + Latest GPU
 
 Special category awards for best approach in each problem domain.
 
